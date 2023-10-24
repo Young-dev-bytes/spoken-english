@@ -82,27 +82,46 @@ I don’t get round to painting as much as I would like
 Below you can see how we can use different tenses when talking about your free time activities.
 Present Simple
 I paint
+
 I recently took up painting I am quite new to it
+
 To take up a hobby = to start a hobby Past Simple
+
 I started painting years ago
+
 I decided to have a go at painting
+
 I decided to try my hand at painting
-To have a go at something = to try something new To try my hand at something = to try something new
+
+To have a go at something = to try something new 
+
+To try my hand at something = to try something new
+
 Present Perfect Continuous
 I’ve been painting for as long as I can remember
+
 I’ve been painting for donkey’s years For donkey’s years = for a long time
 
 ## The Benefits of Having Hobbies
 
 There are many benefits to having a hobby.
+
 These commonly include that it lets you relax, stay healthy or socialise.
+
 Here are some useful verbs meaning to relax
+
 • To unwind
+
 • To chill out
+
 • To disconnect
+
 • To kick back
+
 • To let your hair down
+
 Here are some useful verbs meaning to stay healthy
+
 • To get into shape • To stay in shape • To keep healthy • To get fit
 Here are some useful verbs meaning to socialise
 • To hang out with friends • To chill out with friends • To be with family
