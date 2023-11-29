@@ -26,4 +26,39 @@ workstation PCs have multiple processor cores.
 
 today you will find a lot of tablets with a long battery life.
 
-### desktop
+### speakers
+
+扬声器:
+the volume on my speakers won't turn up.
+
+### printer
+
+My printer broke down, so I printed out these documents at work.
+
+### desktop folders files
+
+### storage devices
+
+hard drive
+
+external drive
+
+flash drive, USB drive
+
+### wired mouse / wireless mouse / touchpad
+
+### Wi-Fi/wireless connection
+
+### wired connection / Ethernet
+
+it's easier to hack into a Wi-Fi network than get to Ethernet cable
+
+### excel spreadsheet
+
+rows, columns
+
+our team-leader shared an excel spreadsheet with all the task for upcoming month.
+
+### spellchecker
+
+my spellchecker doesn't work, so I had to look for mistakes myself.
